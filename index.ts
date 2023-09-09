@@ -1,3 +1,4 @@
 // import './Heap';
 // import './Trie';
-import './KMP';
+// import './KMP';
+import './BinarySearch';
