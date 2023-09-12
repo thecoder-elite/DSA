@@ -2,4 +2,5 @@
 // import './Trie';
 // import './KMP';
 // import './BinarySearch';
-import './MergeSort';
+// import './MergeSort';
+import './QuickSort';
